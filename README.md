@@ -1,0 +1,1 @@
+# esphome-child-alarm
